@@ -1,0 +1,5 @@
+sudo ip route add 10.53.68.192/26 via 172.19.0.4
+sudo ip route add 10.53.86.64/26 via 172.19.0.3
+sudo ip route add 10.53.115.0/26 via 172.19.0.5
+sudo ip route add 10.53.194.192/26 via 172.19.0.2
+
